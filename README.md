@@ -1,1 +1,2 @@
-# Programação para internet 2\nRepositório para colocar as atividades de sala
+# Programação para internet 2
+Repositório para colocar as atividades de sala
